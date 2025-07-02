@@ -14,7 +14,7 @@ The project aims to build a model that classifies 8-second audio clips into five
 - **Mel-spectrograms:** PNG images of mel-spectrograms used for training and transfer learning experiments.
 
 ## Dataset
-- The entire dataset used can be found in this public link: `https://drive.google.com/drive/folders/1Wtcmi4grjVQK8G2KAdINsqbb7Qm0VIGg?usp=sharing`
+- The entire dataset used can be found inside this repo, and also in this public link: `https://drive.google.com/drive/folders/1Wtcmi4grjVQK8G2KAdINsqbb7Qm0VIGg?usp=sharing`
 - Clips extracted from hard-techno tracks (8 seconds each).
 - Total clips: 1772.
 - Labels correspond to five subgenres: bouncy, tekno, warzone, industrial, non-techno-drop.
