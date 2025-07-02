@@ -1,0 +1,14 @@
+tensorflow>=2.18.0
+numpy>=2.0.2
+pandas>=2.3.0
+scikit-learn>=1.7.0
+opencv-python>=4.11.0.86
+matplotlib>=3.10.3
+librosa>=0.11.0
+soundfile>=0.13.1
+pyAudioAnalysis>=0.3.14
+eyed3>=0.9.7
+pydub>=0.25.1
+xgboost>=3.0.2
+lightgbm>=4.6.0
+tqdm>=4.67.1

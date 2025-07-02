@@ -1,0 +1,24 @@
+# General Python ignores
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE/project files
+.vscode/
+*.swp
+
+# Model files (if any)
+*.h5
+*.pkl
+*.joblib
+
+# Exclude only the temp CSV files
+data/melgrams/clip_features_and_labels_2.csv
+data/low_melgrams/clip_features_and_labels_pyAudioAnalysis.csv
