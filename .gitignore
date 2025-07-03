@@ -20,5 +20,5 @@ Thumbs.db
 *.joblib
 
 # Exclude only the temp CSV files
-data/melgrams/clip_features_and_labels_2.csv
-data/low_melgrams/clip_features_and_labels_pyAudioAnalysis.csv
+data/clip_features_and_labels_2.csv
+data/clip_features_and_labels_pyAudioAnalysis.csv
